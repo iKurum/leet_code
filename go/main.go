@@ -7,5 +7,5 @@ import (
 )
 
 func main() {
-	fmt.Println(medium.C371(1, 2))
+	fmt.Println(medium.C187("AAAAACCCCCAAAAACCCCCCAAAAAGGGTTT"))
 }
